@@ -1,0 +1,14 @@
+.main{
+    width: 100vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    place-items: center;
+    margin-top: 2rem;
+}
+form{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    margin-bottom: 2rem;
+}

@@ -1,0 +1,29 @@
+.main{
+  display: grid;
+  place-items: center;
+  margin-top: 5rem;
+}
+input{
+  height: 2rem;
+  width: 50vw;
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+}
+.label{
+  font-size: 1.5rem;
+  margin-bottom: .5rem;
+}
+.form{
+  display: flex;
+  flex-direction: column;
+}
+.firstnext{
+  width: 50%;
+  height: 6vh;
+  margin: 0 auto;
+}
+.buttons{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}

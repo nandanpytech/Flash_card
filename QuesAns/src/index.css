@@ -1,0 +1,14 @@
+.Maincard{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#flash{
+    margin: 10px;
+}
+#modalsubmit{
+    margin: 10px;
+}
+#modalques{
+    margin: 0 15px;
+}
